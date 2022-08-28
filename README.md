@@ -35,9 +35,7 @@ Here are some ideas to get you started:
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
 
-
----
-  [![trophy](https://github-profile-trophy.vercel.app/?username=EmperorAkashi20)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=EmperorAkashi20&theme=tokyonight&no-bg=true&no-frame=true&column=-1)](https://github.com/ryo-ma/github-profile-trophy)
 ---
 
 ### :fire: My Stats :

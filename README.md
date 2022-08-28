@@ -8,7 +8,7 @@
 [![Twitter](https://img.shields.io/badge/rishabh-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://www.twitter.com/__rishabh/)
 [![Linkedin](https://img.shields.io/badge/rishabh-%231DA1F2.svg?style=for-the-badge&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/rishabhsethia20//)
 [![github](https://img.shields.io/badge/rishabh-12100E.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/EmperorAkashi20/)
-
+<br><img src="https://komarev.com/ghpvc/?username=EmperorAkashi20&style=flat-square&color=blue" alt=""/>
 </div>
 
 <h1 align="center">

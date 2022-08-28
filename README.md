@@ -39,6 +39,12 @@ Here are some ideas to get you started:
 <p>I’ve always been a great problem solver, an independent introvert, a technophile obsessed with the latest devices and passionate about science and technology. Today, I’m working as a software engineer, and I get to show off all these elements of who I am. </p>
 <p>I started learning to code even before I reached my teenage years, though it was only small stuff like Logo (Language), QBASIC, Basic HTML, etc. At that time, it was always more of a hobby than a career focus. After a college education in Computer Science, and continuing to pursue that hobby, I realised software engineering was the right field for me. Since then, I’ve worked on multiple projects and was involved with a startup as well. Today, I’m working as a senior developer with the amazing team, and am getting into machine learning and blockchain in my own time.</p>
 <p>I’m familiar with a variety of programming languages, including Dart, Java, HTML, CSS, Python, Javascript, C and C++ but I’m always adding new skills to my repertoire. A strong willed and focused individual with a progressive attitude towards all aspects of life.</p><br>
+  
+<p align="left">
+I code with :  👇
+
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white"/> <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/> <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white"/>   <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white"/> <img src="https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white"/> <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>  <img src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white"/> <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white"/> <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white"/>
+</p>
  </div>
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=EmperorAkashi20&margin-w=40&margin-h=15&theme=tokyonight&no-bg=true&no-frame=true&column=-1)](https://github.com/ryo-ma/github-profile-trophy)

@@ -50,6 +50,6 @@ Here are some ideas to get you started:
   <img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=EmperorAkashi20&theme=highcontrast&count_private=true" />
 </a>
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EmperorAkashi20&layout=compact&theme=vision-friendly-dark" />
+  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EmperorAkashi20&theme=vision-friendly-dark" />
 </a>
 

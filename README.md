@@ -29,5 +29,10 @@ Here are some ideas to get you started:
   <img src="https://komarev.com/ghpvc/?username=EmperorAkashi20&style=flat-square&color=blue" alt=""/>
 </div>
 
+---
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=EmperorAkashi20&theme=highcontrast)](https://git.io/streak-stats) [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=EmperorAkashi20&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
+### :fire: My Stats :
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=EmperorAkashi20&theme=highcontrast)](https://git.io/streak-stats) 
+<!-- [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=EmperorAkashi20&count_private=true)](https://github.com/anuraghazra/github-readme-stats) -->
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=EmperorAkashi20&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)

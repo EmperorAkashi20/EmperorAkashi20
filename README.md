@@ -2,7 +2,7 @@
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
 </div>
 
-<div align="left">
+<div align="center">
   
 [![Instagram](https://img.shields.io/badge/rishabh-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/rishabhsethia20/)
 [![Twitter](https://img.shields.io/badge/rishabh-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://www.twitter.com/__rishabh/)

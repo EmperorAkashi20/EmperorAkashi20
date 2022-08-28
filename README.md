@@ -43,6 +43,5 @@ Here are some ideas to get you started:
 <!-- [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=EmperorAkashi20&count_private=true)](https://github.com/anuraghazra/github-readme-stats) -->
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=EmperorAkashi20&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
-<p>There are five spaces between these&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;words.</p>
-![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=kt42z7o64n0n6kxewpmnatjii&unique={true|1|on|yes}&count=2)
+<!-- ![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=kt42z7o64n0n6kxewpmnatjii&unique={true|1|on|yes}&count=2) -->
 

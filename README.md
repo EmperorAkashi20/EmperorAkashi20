@@ -40,7 +40,7 @@ Here are some ideas to get you started:
 
 ### :fire: My Stats :
 
-  | <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com/?user=EmperorAkashi20&theme=highcontrast" alt="Rishabh's Github Stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=EmperorAkashi20&show_icons=true&include_all_commits=true&count_private=true&theme=vision-friendly-dark&hide_border=true" alt="Rishabh's Github Stats" /></a> |
+  | <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com/?user=EmperorAkashi20&hide_border=true&theme=highcontrast" alt="Rishabh's Github Stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=EmperorAkashi20&show_icons=true&include_all_commits=true&count_private=true&theme=vision-friendly-dark&hide_border=true" alt="Rishabh's Github Stats" /></a> |
 | ------------- | ------------- |
 
 <div id="langs" align="center">

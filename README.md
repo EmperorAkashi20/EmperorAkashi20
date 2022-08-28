@@ -53,6 +53,12 @@ Here are some ideas to get you started:
   <br/>
 <a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="rzashakeri's Activity Graph" src="https://activity-graph.herokuapp.com/graph/?username=EmperorAkashi20&bg_color=fff&color=000&line=00E676&point=000&hide_border=true" /></a>
 </details>
+<details>
+  <summary>Profile Views 👁️</summary>
+  <br/>
+  <img src="https://komarev.com/ghpvc/?username=EmperorAkashi20&label=PROFILE+VIEWS&style=for-the-badge&color=brightgreen">
+
+</details>
 
 ### :musical_note: Jamming On :
  ![Spotify recently played](https://spotify-recently-played-readme.vercel.app/api?user=kt42z7o64n0n6kxewpmnatjii&width=400&unique={true|1|on|yes}&count=3)

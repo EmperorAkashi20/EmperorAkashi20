@@ -32,7 +32,7 @@ Here are some ideas to get you started:
 
 <h1 align="center">
   Hey There
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="80px"/>
 </h1>
 <div id="bio" align="center">
  <p> I’m living the dream.</p>

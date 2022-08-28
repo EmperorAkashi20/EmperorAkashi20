@@ -31,7 +31,7 @@ Here are some ideas to get you started:
 </div>
 
 <h1 align="center">
-  hey there
+  Hey There
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
 
@@ -57,7 +57,7 @@ Here are some ideas to get you started:
 | ------------- | ------------- |
 
 <!-- ![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=kt42z7o64n0n6kxewpmnatjii&unique={true|1|on|yes}&width=400) -->
-### :musical_note: jamming on :
+### :musical_note: Jamming On :
  ![Spotify recently played](https://spotify-recently-played-readme.vercel.app/api?user=kt42z7o64n0n6kxewpmnatjii&width=400&unique={true|1|on|yes}&count=2)
 
 

@@ -53,7 +53,7 @@ Here are some ideas to get you started:
 </a>
 </a> -->
 
-  | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=EmperorAkashi20&show_icons=true&include_all_commits=true&theme=vision-friendly-dark&hide_border=true" alt="Rishabh's Github Stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EmperorAkashi20&layout=compact&theme=highcontrast&count_private=true&hide_border=true" /></a> |
+  | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=EmperorAkashi20&show_icons=true&include_all_commits=true&theme=vision-friendly-dark&hide_border=true" alt="Rishabh's Github Stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EmperorAkashi20&theme=highcontrast&count_private=true&hide_border=true" /></a> |
 | ------------- | ------------- |
 
 <!-- ![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=kt42z7o64n0n6kxewpmnatjii&unique={true|1|on|yes}&width=400) -->

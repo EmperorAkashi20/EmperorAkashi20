@@ -50,5 +50,3 @@ Here are some ideas to get you started:
 
 ### :musical_note: Jamming On :
  ![Spotify recently played](https://spotify-recently-played-readme.vercel.app/api?user=kt42z7o64n0n6kxewpmnatjii&width=400&unique={true|1|on|yes}&count=3)
-
-[[https://spotify-github-profile.vercel.app/api/view.svg?uid=kt42z7o64n0n6kxewpmnatjii&redirect=true][https://spotify-github-profile.vercel.app/api/view.svg?uid=kt42z7o64n0n6kxewpmnatjii&cover_image=true&theme=novatorem&bar_color=53b14f&bar_color_cover=false)]]

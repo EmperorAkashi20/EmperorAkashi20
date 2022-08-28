@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
 </div>
-<div id="bio" align="left">
+<div id="bio" align="center">
  <p> I’m living the dream.</p>
 <p>I’ve always been a great problem solver, an independent introvert, a technophile obsessed with the latest devices and passionate about science and technology. Today, I’m working as a software engineer, and I get to show off all these elements of who I am. </p>
 <p>I started learning to code even before I reached my teenage years, though it was only small stuff like Logo (Language), QBASIC, Basic HTML, etc. At that time, it was always more of a hobby than a career focus. After a college education in Computer Science, and continuing to pursue that hobby, I realised software engineering was the right field for me. Since then, I’ve worked on multiple projects and was involved with a startup as well. Today, I’m working as a senior developer with the amazing team at Digital Prizm Solutions, and am getting into machine learning and blockchain in my own time.</p>

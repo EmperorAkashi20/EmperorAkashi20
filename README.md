@@ -42,9 +42,6 @@ Here are some ideas to get you started:
 
   | <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com/?user=EmperorAkashi20&theme=highcontrast" alt="Rishabh's Github Stats" /></a>  | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EmperorAkashi20&layout=compact&theme=highcontrast&count_private=true&hide_border=true" /></a> |  <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=EmperorAkashi20&show_icons=true&include_all_commits=true&count_private=true&theme=vision-friendly-dark&hide_border=true" alt="Rishabh's Github Stats" /></a> |
 | ------------- | ------------- | ------------- |
-<div align=center>
-  <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=EmperorAkashi20&show_icons=true&include_all_commits=true&count_private=true&theme=vision-friendly-dark&hide_border=true" alt="Rishabh's Github Stats" /></a>
-  </div>
 
 ### :musical_note: Jamming On :
  ![Spotify recently played](https://spotify-recently-played-readme.vercel.app/api?user=kt42z7o64n0n6kxewpmnatjii&width=400&unique={true|1|on|yes}&count=3)

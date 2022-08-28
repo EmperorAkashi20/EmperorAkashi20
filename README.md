@@ -2,11 +2,13 @@
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
 </div>
 
-<div align="center">
+<div align="left">
+  
 [![Instagram](https://img.shields.io/badge/rishabh-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/rishabhsethia20/)
 [![Twitter](https://img.shields.io/badge/rishabh-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://www.twitter.com/__rishabh/)
 [![Linkedin](https://img.shields.io/badge/rishabh-%231DA1F2.svg?style=for-the-badge&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/rishabhsethia20//)
 [![github](https://img.shields.io/badge/rishabh-12100E.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/EmperorAkashi20/)
+
 </div>
 
 <h1 align="center">

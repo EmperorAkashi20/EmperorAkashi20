@@ -29,6 +29,7 @@ Here are some ideas to get you started:
   <a href="[www.linkedin.com/in/rishabhsethia20](https://www.linkedin.com/in/rishabhsethia20/)">
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="LinkedIn Badge"/>
   </a>
+  <br>
   <img src="https://komarev.com/ghpvc/?username=EmperorAkashi20&style=flat-square&color=blue" alt=""/>
 </div>
 

@@ -60,4 +60,4 @@ Here are some ideas to get you started:
 ---
 ### :musical_note: jamming on :
 
-![Spotify recently played](https://spotify-recently-played-readme.vercel.app/api?user=kt42z7o64n0n6kxewpmnatjii&width=800&unique={true|1|on|yes})
+![Spotify recently played](https://spotify-recently-played-readme.vercel.app/api?user=kt42z7o64n0n6kxewpmnatjii&width=800&unique={true|1|on|yes}&count=2)

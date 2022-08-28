@@ -18,6 +18,15 @@ Here are some ideas to get you started:
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
 </div>
+<div id="bio" align="left">
+ <p> I’m living the dream.</p><br>
+
+<p>I’ve always been a great problem solver, an independent introvert, a technophile obsessed with the latest devices and passionate about science and technology. Today, I’m working as a software engineer, and I get to show off all these elements of who I am. </p><br>
+
+<p>I started learning to code even before I reached my teenage years, though it was only small stuff like Logo (Language), QBASIC, Basic HTML, etc. At that time, it was always more of a hobby than a career focus. After a college education in Computer Science, and continuing to pursue that hobby, I realised software engineering was the right field for me. Since then, I’ve worked on multiple projects and was involved with a startup as well. Today, I’m working as a senior developer with the amazing team at Digital Prizm Solutions, and am getting into machine learning and blockchain in my own time.</p><br>
+
+<p>I’m familiar with a variety of programming languages, including Dart, Java, HTML, CSS, Python, Javascript, C and C++ but I’m always adding new skills to my repertoire. A strong willed and focused individual with a progressive attitude towards all aspects of life.</p><br>
+ </div>
 
 <div id="badges" align="center">
   <a href="[www.linkedin.com/in/rishabhsethia20](https://www.linkedin.com/in/rishabhsethia20/)">

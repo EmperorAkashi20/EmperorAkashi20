@@ -19,10 +19,9 @@ Here are some ideas to get you started:
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
 </div>
 <div id="badges" align="center">
-    <a href="www.linkedin.com/in/rishabhsethia20">
+  <a href="www.linkedin.com/in/rishabhsethia20">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
-  <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
 </div>
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=EmperorAkashi20&theme=highcontrast)](https://git.io/streak-stats) [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=EmperorAkashi20&count_private=true)](https://github.com/anuraghazra/github-readme-stats)

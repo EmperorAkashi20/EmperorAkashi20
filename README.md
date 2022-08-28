@@ -58,6 +58,7 @@ Here are some ideas to get you started:
 
 <!-- ![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=kt42z7o64n0n6kxewpmnatjii&unique={true|1|on|yes}&width=400) -->
 ### :musical_note: jamming on :
-|![Spotify recently played](https://spotify-recently-played-readme.vercel.app/api?user=kt42z7o64n0n6kxewpmnatjii&width=400&unique={true|1|on|yes}&count=2)|
+| ![Spotify recently played](https://spotify-recently-played-readme.vercel.app/api?user=kt42z7o64n0n6kxewpmnatjii&width=400&unique={true|1|on|yes}&count=2) |
+| ------------- | ------------- |
 
 

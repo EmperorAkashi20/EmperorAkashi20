@@ -35,6 +35,10 @@ Here are some ideas to get you started:
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
 
+<!-- HTML -->
+<img src="https://readme-jokes.vercel.app/api" alt="Jokes Card" />
+<img src="https://readme-jokes.vercel.app/api?hideBorder" alt="Jokes Card" align="center"/>
+
 [![trophy](https://github-profile-trophy.vercel.app/?username=EmperorAkashi20&margin-w=40&margin-h=15&theme=tokyonight&no-bg=true&no-frame=true&column=-1)](https://github.com/ryo-ma/github-profile-trophy)
 ---
 

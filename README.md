@@ -45,11 +45,6 @@ Here are some ideas to get you started:
 ---
 
 ### :fire: My Stats :
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=EmperorAkashi20&theme=highcontrast&count_private=true)](https://git.io/streak-stats) 
-<!-- [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=EmperorAkashi20&count_private=true)](https://github.com/anuraghazra/github-readme-stats) -->
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=EmperorAkashi20&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
-<!-- ![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=kt42z7o64n0n6kxewpmnatjii&unique={true|1|on|yes}&count=2) -->
 
 <a href="https://git.io/streak-stats">
   <img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=EmperorAkashi20&theme=highcontrast&count_private=true" />

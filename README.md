@@ -52,3 +52,7 @@ I code with :  👇
 
 ### :musical_note: Jamming On :
  ![Spotify recently played](https://spotify-recently-played-readme.vercel.app/api?user=kt42z7o64n0n6kxewpmnatjii&width=400&unique={true|1|on|yes}&count=3)
+ 
+ <p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=60&section=footer"/>
+</p>

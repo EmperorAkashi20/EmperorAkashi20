@@ -36,8 +36,9 @@ I code with :  👇
 <a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="rishabh's Activity Graph" src="https://activity-graph.herokuapp.com/graph/?username=EmperorAkashi20&bg_color=000&color=fff&line=00E676&point=fff&hide_border=true" /></a>
 <br>
 
-  | <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com/?user=EmperorAkashi20&hide_border=true&theme=highcontrast" alt="Rishabh's Github Stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=EmperorAkashi20&show_icons=true&include_all_commits=true&count_private=true&theme=vision-friendly-dark&hide_border=true" alt="Rishabh's Github Stats" /></a> |
-| ------------- | ------------- |
+  | <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com/?user=EmperorAkashi20&hide_border=true&theme=highcontrast" alt="Rishabh's Github Stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=EmperorAkashi20&show_icons=true&include_all_commits=true&count_private=true&theme=vision-friendly-dark&hide_border=true" alt="Rishabh's Github Stats" /></a> | <a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="rishabh's Activity Graph" src="https://activity-graph.herokuapp.com/graph/?username=EmperorAkashi20&bg_color=000&color=fff&line=00E676&point=fff&hide_border=true" /></a>
+<br>
+| ------------- | ------------- | ------------- |
 
 <div id="langs" align="center">
 <a href="https://github.com/anuraghazra/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=EmperorAkashi20&layout=compact&theme=highcontrast&count_private=true&hide_border=true" />

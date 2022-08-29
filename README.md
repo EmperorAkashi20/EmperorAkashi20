@@ -40,8 +40,7 @@ I code with :  👇
 | ------------- | ------------- |
 
 <center>
-| <a href="https://github.com/anuraghazra/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=EmperorAkashi20&layout=compact&theme=highcontrast&count_private=true&hide_border=true" /></a> |
-| ------------- |
+<a href="https://github.com/anuraghazra/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=EmperorAkashi20&layout=compact&theme=highcontrast&count_private=true&hide_border=true" /></a>
 </center>
 
 

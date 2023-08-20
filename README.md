@@ -24,7 +24,7 @@
 <h1 align="center">
 I code with :  👇
 
-<img src="https://img.shields.io/badge/Dart-3776AB?style=for-the-badge&logo=dart&logoColor=white"/> <img src="https://img.shields.io/badge/Flutter-F7DF1E?style=for-the-badge&logo=flutter&logoColor=white"/> <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/> <img src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white"/> <img src="https://img.shields.io/badge/-ReactJs-61DAFB?logo=react&logoColor=white&style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Dart-3776AB?style=for-the-badge&logo=dart&logoColor=white"/> <img src="https://img.shields.io/badge/Flutter-F7DF1E?style=for-the-badge&logo=flutter&logoColor=white"/> <img src="https://img.shields.io/badge/-ReactJs-61DAFB?logo=react&logoColor=white&style=for-the-badge"/>
 </h1>
 </div>
 

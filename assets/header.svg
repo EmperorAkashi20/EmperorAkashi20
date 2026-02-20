@@ -1,0 +1,174 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="100%" height="220" viewBox="0 0 1200 220">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#0d1117"/>
+      <stop offset="50%" stop-color="#0d1117"/>
+      <stop offset="100%" stop-color="#0d1117"/>
+    </linearGradient>
+    <linearGradient id="textGrad" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#58a6ff"/>
+      <stop offset="50%" stop-color="#79c0ff"/>
+      <stop offset="100%" stop-color="#58a6ff"/>
+    </linearGradient>
+    <linearGradient id="lineGrad" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#0d1117" stop-opacity="0"/>
+      <stop offset="15%" stop-color="#58a6ff" stop-opacity="0.6"/>
+      <stop offset="50%" stop-color="#58a6ff" stop-opacity="1"/>
+      <stop offset="85%" stop-color="#58a6ff" stop-opacity="0.6"/>
+      <stop offset="100%" stop-color="#0d1117" stop-opacity="0"/>
+    </linearGradient>
+    <filter id="glow">
+      <feGaussianBlur stdDeviation="2" result="blur"/>
+      <feMerge>
+        <feMergeNode in="blur"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+    <filter id="softGlow">
+      <feGaussianBlur stdDeviation="8" result="blur"/>
+      <feMerge>
+        <feMergeNode in="blur"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+  </defs>
+
+  <!-- Background -->
+  <rect width="100%" height="100%" fill="url(#bg)"/>
+
+  <!-- Animated code rain columns - subtle background effect -->
+  <g opacity="0.08" font-family="monospace" font-size="11" fill="#58a6ff">
+    <!-- Column 1 -->
+    <text x="50" y="-10">
+      <animate attributeName="y" from="-20" to="240" dur="8s" repeatCount="indefinite"/>
+      {code}
+    </text>
+    <text x="120" y="-60">
+      <animate attributeName="y" from="-60" to="240" dur="6s" repeatCount="indefinite"/>
+      const
+    </text>
+    <text x="200" y="-30">
+      <animate attributeName="y" from="-30" to="240" dur="9s" repeatCount="indefinite"/>
+      async
+    </text>
+    <text x="280" y="-80">
+      <animate attributeName="y" from="-80" to="240" dur="7s" repeatCount="indefinite"/>
+      build
+    </text>
+    <text x="360" y="-10">
+      <animate attributeName="y" from="-10" to="240" dur="10s" repeatCount="indefinite"/>
+      =>
+    </text>
+    <text x="440" y="-50">
+      <animate attributeName="y" from="-50" to="240" dur="6.5s" repeatCount="indefinite"/>
+      ship
+    </text>
+    <text x="520" y="-90">
+      <animate attributeName="y" from="-90" to="240" dur="8.5s" repeatCount="indefinite"/>
+      0x1F
+    </text>
+    <text x="600" y="-20">
+      <animate attributeName="y" from="-20" to="240" dur="7.5s" repeatCount="indefinite"/>
+      func
+    </text>
+    <text x="680" y="-70">
+      <animate attributeName="y" from="-70" to="240" dur="9.5s" repeatCount="indefinite"/>
+      true
+    </text>
+    <text x="760" y="-40">
+      <animate attributeName="y" from="-40" to="240" dur="6.8s" repeatCount="indefinite"/>
+      push
+    </text>
+    <text x="840" y="-100">
+      <animate attributeName="y" from="-100" to="240" dur="8.2s" repeatCount="indefinite"/>
+      init
+    </text>
+    <text x="920" y="-15">
+      <animate attributeName="y" from="-15" to="240" dur="7.3s" repeatCount="indefinite"/>
+      dev
+    </text>
+    <text x="1000" y="-55">
+      <animate attributeName="y" from="-55" to="240" dur="9.1s" repeatCount="indefinite"/>
+      run
+    </text>
+    <text x="1080" y="-35">
+      <animate attributeName="y" from="-35" to="240" dur="6.3s" repeatCount="indefinite"/>
+      npm
+    </text>
+    <text x="1150" y="-75">
+      <animate attributeName="y" from="-75" to="240" dur="8.8s" repeatCount="indefinite"/>
+      git
+    </text>
+  </g>
+
+  <!-- Subtle floating particles -->
+  <g opacity="0.15">
+    <circle cx="100" cy="50" r="1.5" fill="#58a6ff">
+      <animate attributeName="cy" values="50;180;50" dur="12s" repeatCount="indefinite"/>
+      <animate attributeName="opacity" values="0;0.8;0" dur="12s" repeatCount="indefinite"/>
+    </circle>
+    <circle cx="300" cy="150" r="1" fill="#58a6ff">
+      <animate attributeName="cy" values="150;30;150" dur="10s" repeatCount="indefinite"/>
+      <animate attributeName="opacity" values="0;0.6;0" dur="10s" repeatCount="indefinite"/>
+    </circle>
+    <circle cx="500" cy="80" r="2" fill="#79c0ff">
+      <animate attributeName="cy" values="80;200;80" dur="14s" repeatCount="indefinite"/>
+      <animate attributeName="opacity" values="0;0.5;0" dur="14s" repeatCount="indefinite"/>
+    </circle>
+    <circle cx="700" cy="170" r="1.2" fill="#58a6ff">
+      <animate attributeName="cy" values="170;20;170" dur="11s" repeatCount="indefinite"/>
+      <animate attributeName="opacity" values="0;0.7;0" dur="11s" repeatCount="indefinite"/>
+    </circle>
+    <circle cx="900" cy="60" r="1.8" fill="#79c0ff">
+      <animate attributeName="cy" values="60;190;60" dur="13s" repeatCount="indefinite"/>
+      <animate attributeName="opacity" values="0;0.4;0" dur="13s" repeatCount="indefinite"/>
+    </circle>
+    <circle cx="1100" cy="130" r="1" fill="#58a6ff">
+      <animate attributeName="cy" values="130;40;130" dur="9s" repeatCount="indefinite"/>
+      <animate attributeName="opacity" values="0;0.6;0" dur="9s" repeatCount="indefinite"/>
+    </circle>
+  </g>
+
+  <!-- Top accent line -->
+  <rect x="0" y="0" width="100%" height="2" fill="url(#lineGrad)" opacity="0.5"/>
+
+  <!-- Main text: Name -->
+  <text x="600" y="90" text-anchor="middle" font-family="'Segoe UI', 'Helvetica Neue', sans-serif" font-size="52" font-weight="700" fill="url(#textGrad)" filter="url(#glow)" letter-spacing="4">
+    RISHABH SETHIA
+  </text>
+
+  <!-- Subtitle with terminal style -->
+  <text x="600" y="130" text-anchor="middle" font-family="'Courier New', monospace" font-size="14" fill="#8b949e" letter-spacing="2">
+    <tspan fill="#58a6ff">~/dev</tspan> <tspan fill="#6e7681">$</tspan> <tspan fill="#8b949e">senior_engineer</tspan> <tspan fill="#6e7681">--</tspan><tspan fill="#8b949e">ship</tspan> <tspan fill="#3fb950">"products used by millions"</tspan>
+  </text>
+
+  <!-- Blinking cursor -->
+  <rect x="928" y="118" width="8" height="15" fill="#58a6ff">
+    <animate attributeName="opacity" values="1;1;0;0" dur="1.2s" repeatCount="indefinite"/>
+  </rect>
+
+  <!-- Status indicators -->
+  <g transform="translate(430, 158)">
+    <circle cx="0" cy="0" r="4" fill="#3fb950" filter="url(#softGlow)">
+      <animate attributeName="opacity" values="0.5;1;0.5" dur="2s" repeatCount="indefinite"/>
+    </circle>
+    <text x="12" y="4" font-family="'Courier New', monospace" font-size="12" fill="#8b949e" letter-spacing="1">
+      BUILDING
+    </text>
+    <circle cx="110" cy="0" r="4" fill="#3fb950" filter="url(#softGlow)">
+      <animate attributeName="opacity" values="0.5;1;0.5" dur="2s" begin="0.5s" repeatCount="indefinite"/>
+    </circle>
+    <text x="122" y="4" font-family="'Courier New', monospace" font-size="12" fill="#8b949e" letter-spacing="1">
+      SHIPPING
+    </text>
+    <circle cx="230" cy="0" r="4" fill="#3fb950" filter="url(#softGlow)">
+      <animate attributeName="opacity" values="0.5;1;0.5" dur="2s" begin="1s" repeatCount="indefinite"/>
+    </circle>
+    <text x="242" y="4" font-family="'Courier New', monospace" font-size="12" fill="#8b949e" letter-spacing="1">
+      SCALING
+    </text>
+  </g>
+
+  <!-- Bottom accent line -->
+  <rect x="0" y="218" width="100%" height="2" fill="url(#lineGrad)" opacity="0.5"/>
+</svg>

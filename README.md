@@ -1,14 +1,18 @@
 <div align="center">
 
-<!-- HEADER BANNER -->
-<img src="https://capsule-render.vercel.app/api?type=venom&color=0:0d1117,50:161b22,100:58a6ff&height=200&section=header&text=RISHABH%20SETHIA&fontSize=60&fontColor=58a6ff&animation=fadeIn&fontAlignY=38&desc=Software%20Engineer%20%E2%80%A2%20Builder%20%E2%80%A2%20Shipping%20Products%20Used%20by%20Millions&descAlignY=58&descSize=16&descColor=8b949e" width="100%"/>
+<!-- CUSTOM ANIMATED SVG HEADER -->
+<img src="./assets/header.svg" width="100%" alt="Rishabh Sethia"/>
+
+<br/>
 
 <!-- TYPING SVG -->
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&multiline=true&repeat=true&width=650&height=100&lines=Building+products+used+by+millions+%F0%9F%9A%80;Flutter+%7C+React+%7C+Next.js+%7C+Node+%7C+AWS;AI-powered+development+enthusiast+%F0%9F%A4%96" alt="Typing SVG" /></a>
+
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&repeat=true&width=700&height=45&lines=%7B+eat%2C+sleep%2C+code%2C+repeat+%7D;apps+deployed+%E2%86%92+millions+of+users+served;if+(coffee+%3D%3D%3D+empty)+throw+new+Error();" alt="Typing SVG" /></a>
 
 <br/>
 
 <!-- SOCIAL BADGES -->
+
 [![LinkedIn](https://img.shields.io/badge/-rishabh-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rishabhsethia20/)
 [![GitHub](https://img.shields.io/badge/-EmperorAkashi20-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/EmperorAkashi20/)
 [![Twitter](https://img.shields.io/badge/-__rishabh-000000?style=for-the-badge&logo=x&logoColor=white)](https://www.twitter.com/__rishabh/)
@@ -22,26 +26,48 @@
 
 ---
 
-<!-- ABOUT ME -->
+<!-- CURRENTLY WORKING ON -->
 
-## 🧬 &nbsp;About Me
+## 🔭 &nbsp;`status.now()`
 
-```yaml
-name: Rishabh Sethia
-role: Senior Software Engineer
-email: hello@rishabhsethia.com
-started_coding: Before teenage years (Logo → QBASIC → HTML → The Universe)
-current_stack: [ "Flutter", "React", "Next.js", "Node.js", "AWS", "GraphQL" ]
-superpower: "Building apps that millions of real people use every day"
-ai_believer: true  # I love building with AI tools
-fun_fact: "I debug code the way detectives solve crimes — with patience, coffee, and occasional swearing."
+```js
+const rishabh = {
+  building: "production apps used by millions",
+  exploring: ["machine learning", "blockchain", "AI-powered dev tools"],
+  learning: "always something new — currently deep in ML pipelines",
+  askMeAbout: ["flutter", "react", "system design", "scaling apps", "AI tools"],
+  reachMe: "hello@rishabhsethia.com",
+  funFact:
+    "I've mass-deleted a prod database at 2am. I learned backups aren't optional.",
+};
 ```
 
-I've been writing code since before most kids knew what a compiler was. What started as tinkering with **Logo** and **QBASIC** evolved into a career building **production applications used by millions of real-world users**.
+<table>
+<tr>
+<td width="50%" valign="top">
 
-After a CS degree and a startup adventure, I now work as a **Senior Developer** — shipping high-impact products, leveraging **AI tools** to supercharge my workflow, and constantly pushing into new territory like **machine learning** and **blockchain**.
+### 🔭 &nbsp;Currently Building
 
-I don't just write code. I architect solutions, obsess over user experience, and turn complex problems into products people love.
+Mobile & web products that serve **millions of real users** daily — obsessing over performance, clean architecture, and shipping fast.
+
+### 🌱 &nbsp;Currently Learning
+
+ML pipelines, LLM integrations, and exploring how **AI tools** can 10x developer productivity.
+
+</td>
+<td width="50%" valign="top">
+
+### 💬 &nbsp;Ask Me About
+
+Flutter, React, Next.js, system design, scaling apps from 0 to millions, or why tabs are superior to spaces.
+
+### ⚡ &nbsp;Fun Fact
+
+Started coding before teenage years with **Logo** and **QBASIC**. The terminal has been home ever since.
+
+</td>
+</tr>
+</table>
 
 ---
 
@@ -67,7 +93,7 @@ I don't just write code. I architect solutions, obsess over user experience, and
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
-**`// cloud, databases & tools`**
+**`// cloud, databases & infra`**
 
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=FF9900)
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
@@ -85,15 +111,55 @@ I don't just write code. I architect solutions, obsess over user experience, and
 
 ---
 
+<!-- WAKATIME STATS -->
+
+## ⏱️ &nbsp;Weekly Coding Stats
+
+<!--START_SECTION:waka-->
+
+**🚀 Install [WakaTime](https://wakatime.com) → Run the workflow → This section auto-updates with your real coding hours!**
+
+<!--END_SECTION:waka-->
+
+---
+
+<!-- 3D CONTRIBUTION CALENDAR -->
+
+## 🏙️ &nbsp;Contribution Skyline
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./profile-3d-contrib/profile-night-green.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="./profile-3d-contrib/profile-green-animate.svg" />
+    <img src="./profile-3d-contrib/profile-night-green.svg" alt="3D Contribution Calendar" width="100%"/>
+  </picture>
+</div>
+
+---
+
 <!-- CONTRIBUTION CALENDAR -->
 
-## 🟩 &nbsp;Contribution History
+## 🟩 &nbsp;Contribution Calendar
 
 <div align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://ghchart.rshah.org/58a6ff/EmperorAkashi20" />
     <source media="(prefers-color-scheme: light)" srcset="https://ghchart.rshah.org/2ea44f/EmperorAkashi20" />
     <img src="https://ghchart.rshah.org/58a6ff/EmperorAkashi20" alt="GitHub Contribution Calendar" width="98%"/>
+  </picture>
+</div>
+
+---
+
+<!-- SNAKE ANIMATION -->
+
+## 🐍 &nbsp;Watch the Snake Eat My Contributions
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/EmperorAkashi20/EmperorAkashi20/output/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/EmperorAkashi20/EmperorAkashi20/output/github-snake.svg" />
+    <img alt="Snake eating contributions" src="https://raw.githubusercontent.com/EmperorAkashi20/EmperorAkashi20/output/github-snake-dark.svg" width="100%" />
   </picture>
 </div>
 
@@ -137,21 +203,28 @@ I don't just write code. I architect solutions, obsess over user experience, and
 
 <div align="center">
 
-### ✉️ &nbsp;Let's Build Something Together
+```
+ ██████╗  ██████╗ ████████╗     █████╗ ███╗   ██╗
+██╔════╝ ██╔═══██╗╚══██╔══╝    ██╔══██╗████╗  ██║
+██║  ███╗██║   ██║   ██║       ███████║██╔██╗ ██║
+██║   ██║██║   ██║   ██║       ██╔══██║██║╚██╗██║
+╚██████╔╝╚██████╔╝   ██║       ██║  ██║██║ ╚████║
+ ╚═════╝  ╚═════╝    ╚═╝       ╚═╝  ╚═╝╚═╝  ╚═══╝
+          ██╗██████╗ ███████╗  █████╗  ██████╗
+          ██║██╔══██╗██╔════╝ ██╔══██╗ ╚════██╗
+          ██║██║  ██║█████╗   ███████║   ▄███╔╝
+          ██║██║  ██║██╔══╝   ██╔══██║   ▀▀══╝
+          ██║██████╔╝███████╗ ██║  ██║   ██╗
+          ╚═╝╚═════╝ ╚══════╝ ╚═╝  ╚═╝   ╚═╝
+```
 
-<br/>
-
-**Got an idea? Let's talk.**
+**Let's build something together.**
 
 <a href="mailto:hello@rishabhsethia.com">
   <img src="https://img.shields.io/badge/hello@rishabhsethia.com-reach%20out-58a6ff?style=for-the-badge&labelColor=0d1117" alt="Email"/>
 </a>
 
 <br/><br/>
-
-*"First, solve the problem. Then, write the code."* — John Johnson
-
-<br/>
 
 <img src="https://capsule-render.vercel.app/api?type=venom&color=0:0d1117,50:161b22,100:58a6ff&height=120&section=footer&reversal=true" width="100%"/>
 

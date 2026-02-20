@@ -7,7 +7,7 @@
 
 <!-- TYPING SVG -->
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&repeat=true&width=700&height=45&lines=%7B+eat%2C+sleep%2C+code%2C+repeat+%7D;apps+deployed+%E2%86%92+millions+of+users+served;if+(coffee+%3D%3D%3D+empty)+throw+new+Error();" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&repeat=true&width=700&height=45&lines=%7B+eat%2C+sleep%2C+code%2C+repeat+%7D;ai%2Fml+%2B+full-stack+projects+in+production;if+(coffee+%3D%3D%3D+empty)+throw+new+Error();" alt="Typing SVG" /></a>
 
 <br/>
 
@@ -32,7 +32,7 @@
 
 ```js
 const rishabh = {
-  building: "production apps used by millions",
+  building: "production-grade AI/ML and full-stack apps",
   exploring: ["machine learning", "blockchain", "AI-powered dev tools"],
   learning: "always something new — currently deep in ML pipelines",
   askMeAbout: ["flutter", "react", "system design", "scaling apps", "AI tools"],
@@ -48,7 +48,7 @@ const rishabh = {
 
 ### 🔭 &nbsp;Currently Building
 
-Mobile & web products that serve **millions of real users** daily — obsessing over performance, clean architecture, and shipping fast.
+Mobile, web, and AI-powered products in production — obsessing over performance, clean architecture, and shipping fast.
 
 ### 🌱 &nbsp;Currently Learning
 
@@ -59,7 +59,7 @@ ML pipelines, LLM integrations, and exploring how **AI tools** can 10x developer
 
 ### 💬 &nbsp;Ask Me About
 
-Flutter, React, Next.js, system design, scaling apps from 0 to millions, or why tabs are superior to spaces.
+Flutter, React, Next.js, system design, scalable architectures, and AI-assisted development workflows.
 
 ### ⚡ &nbsp;Fun Fact
 

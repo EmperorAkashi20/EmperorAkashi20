@@ -139,11 +139,11 @@
 
   <!-- Subtitle with terminal style -->
   <text x="600" y="130" text-anchor="middle" font-family="'Courier New', monospace" font-size="14" fill="#8b949e" letter-spacing="2">
-    <tspan fill="#58a6ff">~/dev</tspan> <tspan fill="#6e7681">$</tspan> <tspan fill="#8b949e">senior_engineer</tspan> <tspan fill="#6e7681">--</tspan><tspan fill="#8b949e">ship</tspan> <tspan fill="#3fb950">"products used by millions"</tspan>
+    <tspan fill="#58a6ff">~/dev</tspan> <tspan fill="#6e7681">$</tspan> <tspan fill="#8b949e">senior_engineer</tspan> <tspan fill="#6e7681">--</tspan><tspan fill="#8b949e">build</tspan> <tspan fill="#3fb950">"ai/ml products in production"</tspan>
   </text>
 
   <!-- Blinking cursor -->
-  <rect x="928" y="118" width="8" height="15" fill="#58a6ff">
+  <rect x="936" y="118" width="8" height="15" fill="#58a6ff">
     <animate attributeName="opacity" values="1;1;0;0" dur="1.2s" repeatCount="indefinite"/>
   </rect>
 

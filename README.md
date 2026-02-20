@@ -1,58 +1,141 @@
-<div id="header" align="center">
-  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
-</div>
-
 <div align="center">
 
-[![Linkedin](https://img.shields.io/badge/rishabh-%231DA1F2.svg?style=for-the-badge&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/rishabhsethia20//)
-[![github](https://img.shields.io/badge/rishabh-12100E.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/EmperorAkashi20/)
-[![Twitter](https://img.shields.io/badge/rishabh-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://www.twitter.com/__rishabh/)
-[![Instagram](https://img.shields.io/badge/rishabh-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/rishabhsethia20/)
-<br><img src="https://komarev.com/ghpvc/?username=EmperorAkashi20&style=flat-square&color=blue" alt=""/>
+<!-- HEADER BANNER -->
+<img src="https://capsule-render.vercel.app/api?type=venom&color=0:0d1117,50:161b22,100:58a6ff&height=200&section=header&text=RISHABH%20SETHIA&fontSize=60&fontColor=58a6ff&animation=fadeIn&fontAlignY=38&desc=Software%20Engineer%20%E2%80%A2%20Builder%20%E2%80%A2%20Explorer&descAlignY=58&descSize=18&descColor=8b949e" width="100%"/>
+
+<!-- TYPING SVG -->
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=100&lines=Building+things+that+matter+%F0%9F%9A%80;Turning+coffee+into+code+since+forever+%E2%98%95;Flutter+%7C+React+%7C+Machine+Learning+%7C+Blockchain" alt="Typing SVG" /></a>
+
+<br/>
+
+<!-- SOCIAL BADGES - sleek style -->
+[![LinkedIn](https://img.shields.io/badge/-rishabh-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rishabhsethia20/)
+[![GitHub](https://img.shields.io/badge/-EmperorAkashi20-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/EmperorAkashi20/)
+[![Twitter](https://img.shields.io/badge/-__rishabh-1DA1F2?style=for-the-badge&logo=x&logoColor=white)](https://www.twitter.com/__rishabh/)
+[![Instagram](https://img.shields.io/badge/-rishabhsethia20-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/rishabhsethia20/)
+
+<br/>
+<img src="https://komarev.com/ghpvc/?username=EmperorAkashi20&style=for-the-badge&color=0d1117&labelColor=161b22&label=PROFILE+VIEWS" alt="Profile Views"/>
+
 </div>
 
-<h1 align="center">
-  Hey There
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
-</h1>
-<div id="bio" align="center">
- <p> I’m living the dream.</p>
-<p>I’ve always been a great problem solver, an independent introvert, a technophile obsessed with the latest devices and passionate about science and technology. Today, I’m working as a software engineer, and I get to show off all these elements of who I am. </p>
-<p>I started learning to code even before I reached my teenage years, though it was only small stuff like Logo (Language), QBASIC, Basic HTML, etc. At that time, it was always more of a hobby than a career focus. After a college education in Computer Science, and continuing to pursue that hobby, I realised software engineering was the right field for me. Since then, I’ve worked on multiple projects and was involved with a startup as well. Today, I’m working as a senior developer with the amazing team, and am getting into machine learning and blockchain in my own time.</p>
-<p>I’m familiar with a variety of programming languages, including Dart, Java, HTML, CSS, Python, Javascript, C and C++ but I’m always adding new skills to my repertoire. A strong willed and focused individual with a progressive attitude towards all aspects of life.</p><br>
-  
-<h1 align="center">
-I code with :  👇
+<!-- ABOUT ME -->
 
-<img src="https://img.shields.io/badge/Dart-3776AB?style=for-the-badge&logo=dart&logoColor=white"/> <img src="https://img.shields.io/badge/Flutter-F7DF1E?style=for-the-badge&logo=flutter&logoColor=white"/> <img src="https://img.shields.io/badge/-ReactJs-61DAFB?logo=react&logoColor=white&style=for-the-badge"/>
-</h1>
-</div>
+## 🧬 &nbsp;About Me
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=EmperorAkashi20&margin-w=40&margin-h=15&theme=tokyonight&no-bg=true&no-frame=true&column=-1)](https://github.com/ryo-ma/github-profile-trophy)
+```yaml
+name: Rishabh Sethia
+role: Senior Software Engineer
+location: Living the dream 🌍
+started_coding: Before teenage years (Logo → QBASIC → HTML → Everything)
+current_focus: [ "Flutter", "React", "Machine Learning", "Blockchain" ]
+fun_fact: "I debug code the way detectives solve crimes — with patience, coffee, and occasional swearing."
+```
+
+<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EmperorAkashi20&layout=donut-vertical&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=8b949e&count_private=true&langs_count=6&size_weight=0.5&count_weight=0.5" width="280"/>
+
+I'm an independent thinker and relentless builder who's been writing code since before most kids knew what a compiler was. What started as tinkering with **Logo** and **QBASIC** evolved into a full-blown passion for software engineering.
+
+After a CS degree and a startup adventure, I now work as a **Senior Developer** — shipping production apps, exploring **machine learning**, and diving deep into **blockchain** in my own time.
+
+I don't just write code. I architect solutions, obsess over clean abstractions, and turn complex problems into elegant software.
+
+<br clear="both"/>
+
 ---
 
-### :fire: My Stats :
+<!-- TECH STACK -->
 
-[![Rishabh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=EmperorAkashi20&theme=github-compact)](https://github.com/EmperorAkashi20/github-readme-activity-graph)
-<br>
-
-  | <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com/?user=EmperorAkashi20&hide_border=true&theme=highcontrast" alt="Rishabh's Github Stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=EmperorAkashi20&show_icons=true&include_all_commits=true&count_private=true&theme=vision-friendly-dark&hide_border=true" alt="Rishabh's Github Stats" /></a> |
-| ------------- | ------------- |
+## ⚡ &nbsp;Tech Arsenal
 
 <div align="center">
-  <a href="https://github.com/anuraghazra/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=EmperorAkashi20&layout=compact&theme=highcontrast&count_private=true&hide_border=true" /></a>
+
+**`// primary weapons`**
+
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+
+**`// also fluent in`**
+
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+
+**`// tools & platforms`**
+
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+
 </div>
 
+---
 
-<!-- <details>
-  <summary>Activity Graph 📈</summary>
-  <br/>
-<a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="rzashakeri's Activity Graph" src="https://activity-graph.herokuapp.com/graph/?username=EmperorAkashi20&bg_color=fff&color=000&line=00E676&point=000&hide_border=true" /></a>
-</details> -->
-<!-- 
-### :musical_note: Jamming On :
-![Spotify recently played](https://spotify-recently-played-readme.vercel.app/api?user=kt42z7o64n0n6kxewpmnatjii&width=400&unique=true&count=3) -->
- 
- <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=60&section=footer"/>
-</p>
+<!-- GITHUB STATS -->
+
+## 📊 &nbsp;GitHub Analytics
+
+<div align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=EmperorAkashi20&theme=github-dark-blue&hide_border=true&background=0d1117&stroke=30363d&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff&sideLabels=8b949e&currStreakNum=c9d1d9&sideNums=c9d1d9&dates=8b949e" width="49%" />
+<img src="https://github-readme-stats.vercel.app/api?username=EmperorAkashi20&show_icons=true&include_all_commits=true&count_private=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9&rank_icon=percentile" width="49%" />
+
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=EmperorAkashi20&theme=github-compact&bg_color=0d1117&color=58a6ff&line=58a6ff&point=c9d1d9&area_color=161b22&area=true&hide_border=true" width="98%"/>
+</div>
+
+---
+
+<!-- TROPHIES -->
+
+<div align="center">
+
+## 🏆 &nbsp;Achievements
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=EmperorAkashi20&theme=darkhub&no-bg=true&no-frame=true&column=7&margin-w=10&margin-h=10)](https://github.com/ryo-ma/github-profile-trophy)
+
+</div>
+
+---
+
+<!-- SNAKE ANIMATION -->
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/EmperorAkashi20/EmperorAkashi20/output/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/EmperorAkashi20/EmperorAkashi20/output/github-snake.svg" />
+    <img alt="github-snake" src="https://raw.githubusercontent.com/EmperorAkashi20/EmperorAkashi20/output/github-snake-dark.svg" width="100%" />
+  </picture>
+</div>
+
+> 💡 *Set up the [snake animation workflow](https://github.com/Platane/snk) to auto-generate the SVG above!*
+
+---
+
+<div align="center">
+
+### 💬 &nbsp;Let's Connect
+
+<br/>
+
+*"First, solve the problem. Then, write the code."* — John Johnson
+
+<br/>
+
+If you like what you see, drop a ⭐ on a repo — it means the world.
+
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=venom&color=0:0d1117,50:161b22,100:58a6ff&height=120&section=footer&reversal=true" width="100%"/>
+
+</div>

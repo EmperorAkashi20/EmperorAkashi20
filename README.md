@@ -117,7 +117,13 @@ Started coding before teenage years with **Logo** and **QBASIC**. The terminal h
 
 <!--START_SECTION:waka-->
 
-**🚀 Install [WakaTime](https://wakatime.com) → Run the workflow → This section auto-updates with your real coding hours!**
+```
+From: 12 February 2026 - To: 19 February 2026
+
+Total Time: 0 secs
+
+No activity tracked
+```
 
 <!--END_SECTION:waka-->
 

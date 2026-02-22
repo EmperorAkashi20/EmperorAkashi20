@@ -118,13 +118,16 @@ Started coding before teenage years with **Logo** and **QBASIC**. The terminal h
 <!--START_SECTION:waka-->
 
 ```
-From: 13 February 2026 - To: 20 February 2026
+From: 14 February 2026 - To: 21 February 2026
 
-Total Time: 49 mins
+Total Time: 1 hr 18 mins
 
-Markdown     19 mins               █████████▓░░░░░░░░░░░░░░░   39.15 %
-TypeScript   16 mins               ████████░░░░░░░░░░░░░░░░░   32.61 %
-YAML         13 mins               ███████░░░░░░░░░░░░░░░░░░   28.24 %
+Markdown     28 mins               █████████░░░░░░░░░░░░░░░░   35.92 %
+TypeScript   23 mins               ███████▒░░░░░░░░░░░░░░░░░   29.84 %
+YAML         14 mins               ████▓░░░░░░░░░░░░░░░░░░░░   18.48 %
+Dart         12 mins               ███▓░░░░░░░░░░░░░░░░░░░░░   15.27 %
+Git          0 secs                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.36 %
+Bash         0 secs                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.13 %
 ```
 
 <!--END_SECTION:waka-->

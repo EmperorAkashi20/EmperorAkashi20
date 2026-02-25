@@ -118,18 +118,18 @@ Started coding before teenage years with **Logo** and **QBASIC**. The terminal h
 <!--START_SECTION:waka-->
 
 ```
-From: 16 February 2026 - To: 23 February 2026
+From: 17 February 2026 - To: 24 February 2026
 
-Total Time: 4 hrs 4 mins
+Total Time: 5 hrs 20 mins
 
-Markdown     2 hrs 6 mins          ████████████▒░░░░░░░░░░░░   49.83 %
-TypeScript   55 mins               █████▒░░░░░░░░░░░░░░░░░░░   21.95 %
-Bash         29 mins               ███░░░░░░░░░░░░░░░░░░░░░░   11.70 %
-YAML         14 mins               █▒░░░░░░░░░░░░░░░░░░░░░░░   05.71 %
-Dart         12 mins               █▒░░░░░░░░░░░░░░░░░░░░░░░   04.71 %
-Other        9 mins                █░░░░░░░░░░░░░░░░░░░░░░░░   03.89 %
-TOML         4 mins                ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.60 %
-Git          1 min                 ░░░░░░░░░░░░░░░░░░░░░░░░░   00.56 %
+Markdown     2 hrs 44 mins         ████████████▒░░░░░░░░░░░░   49.85 %
+TypeScript   1 hr 18 mins          ██████░░░░░░░░░░░░░░░░░░░   23.71 %
+Bash         43 mins               ███▒░░░░░░░░░░░░░░░░░░░░░   13.27 %
+YAML         14 mins               █░░░░░░░░░░░░░░░░░░░░░░░░   04.40 %
+Dart         12 mins               █░░░░░░░░░░░░░░░░░░░░░░░░   03.63 %
+Other        9 mins                ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.00 %
+TOML         4 mins                ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.24 %
+Git          1 min                 ░░░░░░░░░░░░░░░░░░░░░░░░░   00.43 %
 ```
 
 <!--END_SECTION:waka-->

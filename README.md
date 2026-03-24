@@ -118,18 +118,18 @@ Started coding before teenage years with **Logo** and **QBASIC**. The terminal h
 <!--START_SECTION:waka-->
 
 ```
-From: 15 March 2026 - To: 22 March 2026
+From: 16 March 2026 - To: 23 March 2026
 
-Total Time: 11 hrs 56 mins
+Total Time: 13 hrs 26 mins
 
-TypeScript   5 hrs 24 mins         ███████████▒░░░░░░░░░░░░░   45.24 %
-Dart         3 hrs 25 mins         ███████▒░░░░░░░░░░░░░░░░░   28.67 %
-Markdown     1 hr 48 mins          ███▓░░░░░░░░░░░░░░░░░░░░░   15.17 %
-JSON         31 mins               █░░░░░░░░░░░░░░░░░░░░░░░░   04.40 %
-Bash         25 mins               █░░░░░░░░░░░░░░░░░░░░░░░░   03.52 %
-Kotlin       6 mins                ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.97 %
-CSS          4 mins                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.61 %
-INI          3 mins                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.50 %
+TypeScript   5 hrs 43 mins         ██████████▓░░░░░░░░░░░░░░   42.64 %
+Dart         5 hrs 2 mins          █████████▒░░░░░░░░░░░░░░░   37.46 %
+Markdown     1 hr 5 mins           ██░░░░░░░░░░░░░░░░░░░░░░░   08.12 %
+JSON         35 mins               █░░░░░░░░░░░░░░░░░░░░░░░░   04.41 %
+Python       31 mins               █░░░░░░░░░░░░░░░░░░░░░░░░   03.93 %
+Bash         14 mins               ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.86 %
+CSS          4 mins                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.54 %
+INI          3 mins                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.44 %
 ```
 
 <!--END_SECTION:waka-->

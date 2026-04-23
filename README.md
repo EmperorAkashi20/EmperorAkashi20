@@ -118,18 +118,18 @@ Started coding before teenage years with **Logo** and **QBASIC**. The terminal h
 <!--START_SECTION:waka-->
 
 ```
-From: 14 April 2026 - To: 21 April 2026
+From: 15 April 2026 - To: 22 April 2026
 
-Total Time: 12 hrs 35 mins
+Total Time: 15 hrs 12 mins
 
-Other            3 hrs 12 mins         █████░░░░░░░░░░░░░░░░░░░░   20.29 %
-Blade Template   3 hrs 2 mins          ████▓░░░░░░░░░░░░░░░░░░░░   19.29 %
-TypeScript       2 hrs 44 mins         ████▒░░░░░░░░░░░░░░░░░░░░   17.38 %
-Dart             2 hrs 36 mins         ████░░░░░░░░░░░░░░░░░░░░░   16.51 %
-Markdown         2 hrs 2 mins          ███▒░░░░░░░░░░░░░░░░░░░░░   12.96 %
-PHP              57 mins               █▓░░░░░░░░░░░░░░░░░░░░░░░   06.07 %
-CSS              26 mins               ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.76 %
-SSH Config       17 mins               ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.82 %
+Dart             4 hrs 51 mins         ███████░░░░░░░░░░░░░░░░░░   27.51 %
+TypeScript       4 hrs 20 mins         ██████░░░░░░░░░░░░░░░░░░░   24.60 %
+Other            2 hrs 28 mins         ███▓░░░░░░░░░░░░░░░░░░░░░   14.03 %
+Markdown         1 hr 50 mins          ██▓░░░░░░░░░░░░░░░░░░░░░░   10.41 %
+Blade Template   1 hr 48 mins          ██▓░░░░░░░░░░░░░░░░░░░░░░   10.25 %
+PHP              42 mins               █░░░░░░░░░░░░░░░░░░░░░░░░   04.00 %
+JSON             28 mins               ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.65 %
+CSS              26 mins               ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.46 %
 ```
 
 <!--END_SECTION:waka-->

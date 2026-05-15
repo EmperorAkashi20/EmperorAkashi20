@@ -118,18 +118,18 @@ Started coding before teenage years with **Logo** and **QBASIC**. The terminal h
 <!--START_SECTION:waka-->
 
 ```
-From: 05 May 2026 - To: 12 May 2026
+From: 07 May 2026 - To: 14 May 2026
 
-Total Time: 7 hrs 22 mins
+Total Time: 6 hrs 59 mins
 
-TypeScript       1 hr 50 mins          █████▒░░░░░░░░░░░░░░░░░░░   21.48 %
-Markdown         1 hr 21 mins          ████░░░░░░░░░░░░░░░░░░░░░   15.78 %
-YAML             1 hr 18 mins          ███▓░░░░░░░░░░░░░░░░░░░░░   15.26 %
-Other            1 hr 13 mins          ███▓░░░░░░░░░░░░░░░░░░░░░   14.28 %
-Dart             1 hr 12 mins          ███▓░░░░░░░░░░░░░░░░░░░░░   14.04 %
-Python           1 hr 6 mins           ███▒░░░░░░░░░░░░░░░░░░░░░   12.97 %
-JSON             8 mins                ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.70 %
-JavaScript       8 mins                ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.61 %
+Python       2 hrs 37 mins         ████████▒░░░░░░░░░░░░░░░░   33.97 %
+YAML         2 hrs 2 mins          ██████▓░░░░░░░░░░░░░░░░░░   26.31 %
+Markdown     1 hr 16 mins          ████░░░░░░░░░░░░░░░░░░░░░   16.39 %
+Other        45 mins               ██▒░░░░░░░░░░░░░░░░░░░░░░   09.76 %
+Dart         15 mins               █░░░░░░░░░░░░░░░░░░░░░░░░   03.42 %
+TypeScript   11 mins               ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.54 %
+JavaScript   9 mins                ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.96 %
+Bash         8 mins                ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.90 %
 ```
 
 <!--END_SECTION:waka-->

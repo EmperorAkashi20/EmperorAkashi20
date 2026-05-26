@@ -118,18 +118,18 @@ Started coding before teenage years with **Logo** and **QBASIC**. The terminal h
 <!--START_SECTION:waka-->
 
 ```
-From: 17 May 2026 - To: 24 May 2026
+From: 18 May 2026 - To: 25 May 2026
 
 Total Time: 6 hrs 10 mins
 
-TypeScript    3 hrs 42 mins         ██████████████▒░░░░░░░░░░   57.25 %
-Markdown      1 hr 19 mins          █████░░░░░░░░░░░░░░░░░░░░   20.51 %
-Other         17 mins               █░░░░░░░░░░░░░░░░░░░░░░░░   04.41 %
-JSON          15 mins               █░░░░░░░░░░░░░░░░░░░░░░░░   04.04 %
-Image (svg)   15 mins               █░░░░░░░░░░░░░░░░░░░░░░░░   04.00 %
+TypeScript    3 hrs 42 mins         ██████████████▒░░░░░░░░░░   57.37 %
+Markdown      1 hr 19 mins          █████░░░░░░░░░░░░░░░░░░░░   20.55 %
+Other         17 mins               █░░░░░░░░░░░░░░░░░░░░░░░░   04.42 %
+JSON          15 mins               █░░░░░░░░░░░░░░░░░░░░░░░░   04.05 %
+Image (svg)   15 mins               █░░░░░░░░░░░░░░░░░░░░░░░░   04.01 %
 XML           13 mins               █░░░░░░░░░░░░░░░░░░░░░░░░   03.43 %
 CSS           9 mins                ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.47 %
-Bash          3 mins                ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.96 %
+Bash          3 mins                ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.97 %
 ```
 
 <!--END_SECTION:waka-->

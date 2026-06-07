@@ -118,17 +118,17 @@ Started coding before teenage years with **Logo** and **QBASIC**. The terminal h
 <!--START_SECTION:waka-->
 
 ```
-From: 28 May 2026 - To: 04 June 2026
+From: 30 May 2026 - To: 06 June 2026
 
-Total Time: 22 hrs
+Total Time: 22 hrs 5 mins
 
-Markdown     8 hrs 50 mins         █████████▓░░░░░░░░░░░░░░░   39.24 %
-Dart         6 hrs 34 mins         ███████▒░░░░░░░░░░░░░░░░░   29.20 %
-TypeScript   4 hrs 24 mins         █████░░░░░░░░░░░░░░░░░░░░   19.60 %
-Other        30 mins               ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.27 %
-Prisma       27 mins               ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.02 %
-CocoaPods    19 mins               ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.46 %
-YAML         18 mins               ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.37 %
+Markdown     8 hrs 50 mins         █████████▓░░░░░░░░░░░░░░░   39.10 %
+Dart         6 hrs 39 mins         ███████▒░░░░░░░░░░░░░░░░░   29.45 %
+TypeScript   4 hrs 24 mins         █████░░░░░░░░░░░░░░░░░░░░   19.53 %
+Other        30 mins               ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.26 %
+Prisma       27 mins               ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.01 %
+CocoaPods    19 mins               ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.45 %
+YAML         18 mins               ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.36 %
 Git Config   17 mins               ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.30 %
 ```
 

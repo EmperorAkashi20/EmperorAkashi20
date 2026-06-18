@@ -118,18 +118,18 @@ Started coding before teenage years with **Logo** and **QBASIC**. The terminal h
 <!--START_SECTION:waka-->
 
 ```
-From: 09 June 2026 - To: 16 June 2026
+From: 10 June 2026 - To: 17 June 2026
 
-Total Time: 2 hrs 39 mins
+Total Time: 2 hrs 29 mins
 
-TypeScript   47 mins               ██████▒░░░░░░░░░░░░░░░░░░   25.71 %
-Markdown     46 mins               ██████▒░░░░░░░░░░░░░░░░░░   25.46 %
-Dart         41 mins               █████▓░░░░░░░░░░░░░░░░░░░   22.65 %
-Other        24 mins               ███▒░░░░░░░░░░░░░░░░░░░░░   13.45 %
-JavaScript   9 mins                █▒░░░░░░░░░░░░░░░░░░░░░░░   04.91 %
-SSH Config   6 mins                █░░░░░░░░░░░░░░░░░░░░░░░░   03.47 %
-JSON         2 mins                ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.47 %
-CSS          2 mins                ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.10 %
+TypeScript   47 mins               ███████░░░░░░░░░░░░░░░░░░   27.65 %
+Markdown     46 mins               ███████░░░░░░░░░░░░░░░░░░   27.38 %
+Dart         30 mins               ████▒░░░░░░░░░░░░░░░░░░░░   17.85 %
+Other        21 mins               ███░░░░░░░░░░░░░░░░░░░░░░   12.45 %
+JavaScript   9 mins                █▒░░░░░░░░░░░░░░░░░░░░░░░   05.28 %
+SSH Config   6 mins                █░░░░░░░░░░░░░░░░░░░░░░░░   03.73 %
+JSON         2 mins                ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.58 %
+CSS          2 mins                ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.19 %
 ```
 
 <!--END_SECTION:waka-->

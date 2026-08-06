@@ -184,17 +184,11 @@ A polished Flutter Pokédex — smooth lists, detail views, and API-driven data.
 <!--START_SECTION:waka-->
 
 ```
-From: 28 July 2026 - To: 04 August 2026
+From: 29 July 2026 - To: 05 August 2026
 
-Total Time: 2 hrs 10 mins
+Total Time: 0 secs
 
-TypeScript   1 hr 27 mins          ████████████████▓░░░░░░░░   66.97 %
-JavaScript   20 mins               ████░░░░░░░░░░░░░░░░░░░░░   15.88 %
-CSS          14 mins               ██▓░░░░░░░░░░░░░░░░░░░░░░   10.78 %
-Markdown     4 mins                █░░░░░░░░░░░░░░░░░░░░░░░░   03.71 %
-Dart         2 mins                ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.00 %
-JSON         0 secs                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.55 %
-Git Config   0 secs                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.10 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->

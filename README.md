@@ -184,18 +184,18 @@ A polished Flutter Pokédex — smooth lists, detail views, and API-driven data.
 <!--START_SECTION:waka-->
 
 ```
-From: 29 August 2026 - To: 05 September 2026
+From: 30 August 2026 - To: 06 September 2026
 
-Total Time: 15 hrs 13 mins
+Total Time: 14 hrs 50 mins
 
-TypeScript   5 hrs 40 mins         █████████▒░░░░░░░░░░░░░░░   37.30 %
-Markdown     3 hrs 20 mins         █████▒░░░░░░░░░░░░░░░░░░░   21.92 %
-JSON         2 hrs 4 mins          ███▒░░░░░░░░░░░░░░░░░░░░░   13.59 %
-Text         1 hr 49 mins          ███░░░░░░░░░░░░░░░░░░░░░░   12.00 %
-YAML         1 hr 25 mins          ██▒░░░░░░░░░░░░░░░░░░░░░░   09.38 %
-Bash         25 mins               ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.76 %
-JavaScript   11 mins               ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.30 %
-Dart         5 mins                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.58 %
+TypeScript   5 hrs 40 mins         █████████▓░░░░░░░░░░░░░░░   38.24 %
+Markdown     2 hrs 57 mins         █████░░░░░░░░░░░░░░░░░░░░   19.96 %
+JSON         2 hrs 4 mins          ███▒░░░░░░░░░░░░░░░░░░░░░   13.93 %
+Text         1 hr 49 mins          ███░░░░░░░░░░░░░░░░░░░░░░   12.30 %
+YAML         1 hr 25 mins          ██▒░░░░░░░░░░░░░░░░░░░░░░   09.62 %
+Bash         25 mins               ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.82 %
+JavaScript   11 mins               ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.34 %
+Dart         5 mins                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.60 %
 ```
 
 <!--END_SECTION:waka-->
